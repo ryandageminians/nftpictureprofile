@@ -1,4 +1,4 @@
-# nftpictureprofiles
+# nftpictureprofile
 - 0xgemini (1).jpg
 - 0xgemini (2).jpg
 - 0xgemini (3).jpg
